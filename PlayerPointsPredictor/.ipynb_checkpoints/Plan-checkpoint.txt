@@ -1,0 +1,4 @@
+Attempt 1:
+game number, date, age, home/away, win or lose, start or not, minutes played, FG, FGA, FG%, 3P, 3PA, FT, FTA, ORB, DRB, TRB, AST, TOV, PF, PTS, GmSc, +/-
+
+mean absolute error = 8.693066486443719
