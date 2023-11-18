@@ -6,3 +6,5 @@ Data provided by Pro-Football-Reference.com
 
 Stats I have so far from 1970-2023 chicago bears:
 result, location, opponent
+
+How I plan on setting up my data, create the same thing for all 32 teams as I did with the bears. Then get the stats of each team from each year 1970-2023 in a different csv file. I then will compare the year and the name of the team to append the data to new columns which will in result create complete data for all 32 teams. I will then combine all 32 of those teams data into 1 large csv file to train the model on. I will remove the date from the file and have the index just be a basic indexing index (1,2,3...).
