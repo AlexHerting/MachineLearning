@@ -1,0 +1,836 @@
+Date,result,location,Opp
+1970-09-19,W,@,New York Giants
+1970-09-27,W,,Philadelphia Eagles
+1970-10-05,L,@,Detroit Lions
+1970-10-11,L,,Minnesota Vikings
+1970-10-18,L,,San Diego Chargers
+1970-11-01,W,@,Atlanta Falcons
+1970-11-08,L,,San Francisco 49ers
+1970-11-15,L,@,Green Bay Packers
+1970-11-22,W,,Buffalo Bills
+1970-11-29,L,@,Baltimore Colts
+1970-12-05,L,@,Minnesota Vikings
+1970-12-13,W,,Green Bay Packers
+1970-12-20,W,@,New Orleans Saints
+1971-09-19,W,,Pittsburgh Steelers
+1971-09-26,W,@,Minnesota Vikings
+1971-10-03,L,@,Los Angeles Rams
+1971-10-10,W,,New Orleans Saints
+1971-10-17,L,@,San Francisco 49ers
+1971-10-24,W,@,Detroit Lions
+1971-10-31,W,,Dallas Cowboys
+1971-11-07,L,,Green Bay Packers
+1971-11-14,W,,Washington Redskins
+1971-11-21,L,,Detroit Lions
+1971-11-29,L,@,Miami Dolphins
+1971-12-05,L,@,Denver Broncos
+1971-12-12,L,@,Green Bay Packers
+1971-12-19,L,,Minnesota Vikings
+1972-09-17,L,,Atlanta Falcons
+1972-09-24,T,,Los Angeles Rams
+1972-10-01,L,,Detroit Lions
+1972-10-08,L,@,Green Bay Packers
+1972-10-15,W,@,Cleveland Browns
+1972-10-23,W,,Minnesota Vikings
+1972-10-29,W,@,St. Louis Cardinals
+1972-11-05,L,@,Detroit Lions
+1972-11-12,L,,Green Bay Packers
+1972-11-19,L,,San Francisco 49ers
+1972-11-26,L,,Cincinnati Bengals
+1972-12-03,L,@,Minnesota Vikings
+1972-12-10,W,@,Philadelphia Eagles
+1972-12-17,L,@,Oakland Raiders
+1973-09-16,L,,Dallas Cowboys
+1973-09-23,L,,Minnesota Vikings
+1973-09-30,W,@,Denver Broncos
+1973-10-07,L,@,New Orleans Saints
+1973-10-14,L,@,Atlanta Falcons
+1973-10-21,L,,New England Patriots
+1973-10-28,W,,Houston Oilers
+1973-11-04,W,@,Green Bay Packers
+1973-11-12,L,@,Kansas City Chiefs
+1973-11-18,L,,Detroit Lions
+1973-11-25,L,@,Minnesota Vikings
+1973-12-02,L,,Los Angeles Rams
+1973-12-09,L,@,Detroit Lions
+1973-12-16,L,,Green Bay Packers
+1974-09-15,W,,Detroit Lions
+1974-09-22,L,,New York Jets
+1974-09-29,L,@,Minnesota Vikings
+1974-10-06,W,,New Orleans Saints
+1974-10-13,L,@,Atlanta Falcons
+1974-10-21,W,,Green Bay Packers
+1974-10-27,L,@,Buffalo Bills
+1974-11-03,L,,Minnesota Vikings
+1974-11-10,L,@,Green Bay Packers
+1974-11-17,L,,San Francisco 49ers
+1974-11-24,L,@,Detroit Lions
+1974-12-01,W,,New York Giants
+1974-12-08,L,@,San Diego Chargers
+1974-12-15,L,@,Washington Redskins
+1975-09-21,L,,Baltimore Colts
+1975-09-28,W,,Philadelphia Eagles
+1975-10-05,L,@,Minnesota Vikings
+1975-10-12,L,@,Detroit Lions
+1975-10-19,L,@,Pittsburgh Steelers
+1975-10-27,L,,Minnesota Vikings
+1975-11-02,L,,Miami Dolphins
+1975-11-09,W,,Green Bay Packers
+1975-11-16,L,@,San Francisco 49ers
+1975-11-23,L,@,Los Angeles Rams
+1975-11-30,L,@,Green Bay Packers
+1975-12-07,W,,Detroit Lions
+1975-12-14,L,,St. Louis Cardinals
+1975-12-21,W,@,New Orleans Saints
+1976-09-12,W,,Detroit Lions
+1976-09-19,W,@,San Francisco 49ers
+1976-09-26,L,,Atlanta Falcons
+1976-10-03,W,,Washington Redskins
+1976-10-10,L,@,Minnesota Vikings
+1976-10-17,L,@,Los Angeles Rams
+1976-10-24,L,@,Dallas Cowboys
+1976-10-31,W,,Minnesota Vikings
+1976-11-07,L,,Oakland Raiders
+1976-11-14,W,,Green Bay Packers
+1976-11-21,L,@,Detroit Lions
+1976-11-28,W,@,Green Bay Packers
+1976-12-05,W,@,Seattle Seahawks
+1976-12-12,L,,Denver Broncos
+1977-09-18,W,,Detroit Lions
+1977-09-25,L,@,St. Louis Cardinals
+1977-10-02,L,,New Orleans Saints
+1977-10-10,W,,Los Angeles Rams
+1977-10-16,L,@,Minnesota Vikings
+1977-10-23,L,,Atlanta Falcons
+1977-10-30,W,@,Green Bay Packers
+1977-11-06,L,@,Houston Oilers
+1977-11-13,W,,Kansas City Chiefs
+1977-11-20,W,,Minnesota Vikings
+1977-11-24,W,@,Detroit Lions
+1977-12-04,W,@,Tampa Bay Buccaneers
+1977-12-11,W,,Green Bay Packers
+1977-12-18,W,@,New York Giants
+1978-09-03,W,,St. Louis Cardinals
+1978-09-10,W,@,San Francisco 49ers
+1978-09-17,W,@,Detroit Lions
+1978-09-25,L,,Minnesota Vikings
+1978-10-01,L,,Oakland Raiders
+1978-10-08,L,@,Green Bay Packers
+1978-10-16,L,@,Denver Broncos
+1978-10-22,L,@,Tampa Bay Buccaneers
+1978-10-29,L,,Detroit Lions
+1978-11-05,L,,Seattle Seahawks
+1978-11-12,L,@,Minnesota Vikings
+1978-11-19,W,,Atlanta Falcons
+1978-11-26,W,,Tampa Bay Buccaneers
+1978-12-04,L,@,San Diego Chargers
+1978-12-10,W,,Green Bay Packers
+1978-12-16,W,@,Washington Redskins
+1979-09-02,W,,Green Bay Packers
+1979-09-09,W,,Minnesota Vikings
+1979-09-16,L,@,Dallas Cowboys
+1979-09-23,L,@,Miami Dolphins
+1979-09-30,L,,Tampa Bay Buccaneers
+1979-10-07,W,@,Buffalo Bills
+1979-10-14,L,,New England Patriots
+1979-10-21,L,@,Minnesota Vikings
+1979-10-28,W,@,San Francisco 49ers
+1979-11-04,W,,Detroit Lions
+1979-11-11,W,,Los Angeles Rams
+1979-11-18,W,,New York Jets
+1979-11-22,L,@,Detroit Lions
+1979-12-02,W,@,Tampa Bay Buccaneers
+1979-12-09,W,@,Green Bay Packers
+1979-12-16,W,,St. Louis Cardinals
+1980-09-07,L,@,Green Bay Packers
+1980-09-14,W,,New Orleans Saints
+1980-09-21,L,,Minnesota Vikings
+1980-09-28,L,@,Pittsburgh Steelers
+1980-10-06,W,,Tampa Bay Buccaneers
+1980-10-12,L,@,Minnesota Vikings
+1980-10-19,W,,Detroit Lions
+1980-10-26,L,@,Philadelphia Eagles
+1980-11-03,L,@,Cleveland Browns
+1980-11-09,W,,Washington Redskins
+1980-11-16,L,,Houston Oilers
+1980-11-23,L,@,Atlanta Falcons
+1980-11-27,W,@,Detroit Lions
+1980-12-07,W,,Green Bay Packers
+1980-12-14,L,,Cincinnati Bengals
+1980-12-20,W,@,Tampa Bay Buccaneers
+1981-09-06,L,,Green Bay Packers
+1981-09-13,L,@,San Francisco 49ers
+1981-09-20,W,,Tampa Bay Buccaneers
+1981-09-28,L,,Los Angeles Rams
+1981-10-04,L,@,Minnesota Vikings
+1981-10-11,L,,Washington Redskins
+1981-10-19,L,@,Detroit Lions
+1981-10-25,W,,San Diego Chargers
+1981-11-01,L,@,Tampa Bay Buccaneers
+1981-11-08,W,@,Kansas City Chiefs
+1981-11-15,L,@,Green Bay Packers
+1981-11-22,L,,Detroit Lions
+1981-11-26,L,@,Dallas Cowboys
+1981-12-06,W,,Minnesota Vikings
+1981-12-13,W,@,Oakland Raiders
+1981-12-20,W,,Denver Broncos
+1982-09-12,L,@,Detroit Lions
+1982-09-19,L,,New Orleans Saints
+1982-11-21,W,,Detroit Lions
+1982-11-28,L,@,Minnesota Vikings
+1982-12-05,W,,New England Patriots
+1982-12-12,L,@,Seattle Seahawks
+1982-12-19,L,,St. Louis Cardinals
+1982-12-26,W,@,Los Angeles Rams
+1982-01-02,L,@,Tampa Bay Buccaneers
+1983-09-04,L,,Atlanta Falcons
+1983-09-11,W,,Tampa Bay Buccaneers
+1983-09-18,L,OT,New Orleans Saints
+1983-09-25,L,OT,Baltimore Colts
+1983-10-02,W,,Denver Broncos
+1983-10-09,L,,Minnesota Vikings
+1983-10-16,L,,Detroit Lions
+1983-10-23,W,,Philadelphia Eagles
+1983-10-30,L,,Detroit Lions
+1983-11-06,L,,Los Angeles Rams
+1983-11-13,W,,Philadelphia Eagles
+1983-11-20,W,,Tampa Bay Buccaneers
+1983-11-27,W,,San Francisco 49ers
+1983-12-04,L,,Green Bay Packers
+1983-12-11,W,,Minnesota Vikings
+1983-12-18,W,,Green Bay Packers
+1984-09-02,W,,Tampa Bay Buccaneers
+1984-09-09,W,,Denver Broncos
+1984-09-16,W,@,Green Bay Packers
+1984-09-23,L,@,Seattle Seahawks
+1984-09-30,L,,Dallas Cowboys
+1984-10-07,W,,New Orleans Saints
+1984-10-14,L,@,St. Louis Cardinals
+1984-10-21,W,@,Tampa Bay Buccaneers
+1984-10-28,W,,Minnesota Vikings
+1984-11-04,W,,Los Angeles Raiders
+1984-11-11,L,@,Los Angeles Rams
+1984-11-18,W,,Detroit Lions
+1984-11-25,W,@,Minnesota Vikings
+1984-12-03,L,@,San Diego Chargers
+1984-12-09,L,,Green Bay Packers
+1984-12-16,W,@,Detroit Lions
+1985-09-08,W,,Tampa Bay Buccaneers
+1985-09-15,W,,New England Patriots
+1985-09-19,W,,Minnesota Vikings
+1985-09-29,W,,Washington Redskins
+1985-10-06,W,,Tampa Bay Buccaneers
+1985-10-13,W,,San Francisco 49ers
+1985-10-21,W,,Green Bay Packers
+1985-10-27,W,,Minnesota Vikings
+1985-11-03,W,,Green Bay Packers
+1985-11-10,W,,Detroit Lions
+1985-11-17,W,,Dallas Cowboys
+1985-11-24,W,,Atlanta Falcons
+1985-12-02,L,,Miami Dolphins
+1985-12-08,W,,Indianapolis Colts
+1985-12-14,W,,New York Jets
+1985-12-22,W,,Detroit Lions
+1986-09-07,W,,Cleveland Browns
+1986-09-14,W,OT,Philadelphia Eagles
+1986-09-22,W,,Green Bay Packers
+1986-09-28,W,,Cincinnati Bengals
+1986-10-05,W,,Minnesota Vikings
+1986-10-12,W,,Houston Oilers
+1986-10-19,L,,Minnesota Vikings
+1986-10-26,W,,Detroit Lions
+1986-11-03,L,,Los Angeles Rams
+1986-11-09,W,,Tampa Bay Buccaneers
+1986-11-16,W,,Atlanta Falcons
+1986-11-23,W,,Green Bay Packers
+1986-11-30,W,OT,Pittsburgh Steelers
+1986-12-07,W,,Tampa Bay Buccaneers
+1986-12-15,W,,Detroit Lions
+1986-12-21,W,,Dallas Cowboys
+1987-09-14,W,,New York Giants
+1987-09-20,W,,Tampa Bay Buccaneers
+1987-10-04,W,@,Philadelphia Eagles
+1987-10-11,W,,Minnesota Vikings
+1987-10-18,L,,New Orleans Saints
+1987-10-25,W,@,Tampa Bay Buccaneers
+1987-11-01,W,,Kansas City Chiefs
+1987-11-08,W,@,Green Bay Packers
+1987-11-16,L,@,Denver Broncos
+1987-11-22,W,,Detroit Lions
+1987-11-29,W,,Green Bay Packers
+1987-12-06,W,@,Minnesota Vikings
+1987-12-14,L,@,San Francisco 49ers
+1987-12-20,L,,Seattle Seahawks
+1987-12-27,W,@,Los Angeles Raiders
+1988-09-04,W,,Miami Dolphins
+1988-09-11,W,@,Indianapolis Colts
+1988-09-18,L,,Minnesota Vikings
+1988-09-25,W,@,Green Bay Packers
+1988-10-02,W,,Buffalo Bills
+1988-10-09,W,@,Detroit Lions
+1988-10-16,W,,Dallas Cowboys
+1988-10-24,W,,San Francisco 49ers
+1988-10-30,L,@,New England Patriots
+1988-11-06,W,,Tampa Bay Buccaneers
+1988-11-13,W,@,Washington Redskins
+1988-11-20,W,@,Tampa Bay Buccaneers
+1988-11-27,W,,Green Bay Packers
+1988-12-05,L,@,Los Angeles Rams
+1988-12-11,W,,Detroit Lions
+1988-12-19,L,@,Minnesota Vikings
+1989-09-10,W,,Cincinnati Bengals
+1989-09-17,W,,Minnesota Vikings
+1989-09-24,W,@,Detroit Lions
+1989-10-02,W,,Philadelphia Eagles
+1989-10-08,L,@,Tampa Bay Buccaneers
+1989-10-15,L,,Houston Oilers
+1989-10-23,L,@,Cleveland Browns
+1989-10-29,W,,Los Angeles Rams
+1989-11-05,L,@,Green Bay Packers
+1989-11-12,W,@,Pittsburgh Steelers
+1989-11-19,L,,Tampa Bay Buccaneers
+1989-11-26,L,@,Washington Redskins
+1989-12-03,L,@,Minnesota Vikings
+1989-12-10,L,,Detroit Lions
+1989-12-17,L,,Green Bay Packers
+1989-12-24,L,@,San Francisco 49ers
+1990-09-09,W,,Seattle Seahawks
+1990-09-16,W,@,Green Bay Packers
+1990-09-23,W,,Minnesota Vikings
+1990-09-30,L,@,Los Angeles Raiders
+1990-10-07,W,,Green Bay Packers
+1990-10-14,W,,Los Angeles Rams
+1990-10-28,W,@,Phoenix Cardinals
+1990-11-04,W,@,Tampa Bay Buccaneers
+1990-11-11,W,,Atlanta Falcons
+1990-11-18,W,@,Denver Broncos
+1990-11-25,L,@,Minnesota Vikings
+1990-12-02,W,,Detroit Lions
+1990-12-09,L,@,Washington Redskins
+1990-12-16,L,@,Detroit Lions
+1990-12-23,W,,Tampa Bay Buccaneers
+1990-12-29,L,,Kansas City Chiefs
+1991-09-01,W,,Minnesota Vikings
+1991-09-08,W,@,Tampa Bay Buccaneers
+1991-09-15,W,,New York Giants
+1991-09-23,W,,New York Jets
+1991-09-29,L,@,Buffalo Bills
+1991-10-06,L,,Washington Redskins
+1991-10-17,W,@,Green Bay Packers
+1991-10-27,W,@,New Orleans Saints
+1991-11-03,W,,Detroit Lions
+1991-11-11,W,@,Minnesota Vikings
+1991-11-17,W,@,Indianapolis Colts
+1991-11-24,L,,Miami Dolphins
+1991-11-28,L,@,Detroit Lions
+1991-12-08,W,,Green Bay Packers
+1991-12-14,W,,Tampa Bay Buccaneers
+1991-12-23,L,@,San Francisco 49ers
+1992-09-06,W,,Detroit Lions
+1992-09-13,L,@,New Orleans Saints
+1992-09-21,L,,New York Giants
+1992-09-27,W,,Atlanta Falcons
+1992-10-04,L,@,Minnesota Vikings
+1992-10-18,W,,Tampa Bay Buccaneers
+1992-10-25,W,@,Green Bay Packers
+1992-11-02,L,,Minnesota Vikings
+1992-11-08,L,,Cincinnati Bengals
+1992-11-15,L,@,Tampa Bay Buccaneers
+1992-11-22,L,,Green Bay Packers
+1992-11-29,L,@,Cleveland Browns
+1992-12-07,L,@,Houston Oilers
+1992-12-13,W,,Pittsburgh Steelers
+1992-12-20,L,@,Detroit Lions
+1992-12-27,L,@,Dallas Cowboys
+1993-09-05,L,,New York Giants
+1993-09-12,L,@,Minnesota Vikings
+1993-09-26,W,,Tampa Bay Buccaneers
+1993-10-03,W,,Atlanta Falcons
+1993-10-10,W,@,Philadelphia Eagles
+1993-10-25,L,,Minnesota Vikings
+1993-10-31,L,@,Green Bay Packers
+1993-11-07,L,,Los Angeles Raiders
+1993-11-14,W,@,San Diego Chargers
+1993-11-21,W,@,Kansas City Chiefs
+1993-11-25,W,@,Detroit Lions
+1993-12-05,W,,Green Bay Packers
+1993-12-12,L,@,Tampa Bay Buccaneers
+1993-12-18,L,,Denver Broncos
+1993-12-26,L,,Detroit Lions
+1993-01-02,L,@,Los Angeles Rams
+1994-09-04,W,,Tampa Bay Buccaneers
+1994-09-12,L,@,Philadelphia Eagles
+1994-09-18,L,,Minnesota Vikings
+1994-09-25,W,@,New York Jets
+1994-10-02,W,,Buffalo Bills
+1994-10-09,W,,New Orleans Saints
+1994-10-23,L,@,Detroit Lions
+1994-10-31,L,,Green Bay Packers
+1994-11-06,W,@,Tampa Bay Buccaneers
+1994-11-13,W,@,Miami Dolphins
+1994-11-20,W,,Detroit Lions
+1994-11-27,W,@,Arizona Cardinals
+1994-12-01,L,@,Minnesota Vikings
+1994-12-11,L,@,Green Bay Packers
+1994-12-18,W,,Los Angeles Rams
+1994-12-24,L,,New England Patriots
+1995-09-03,W,,Minnesota Vikings
+1995-09-11,L,,Green Bay Packers
+1995-09-17,W,@,Tampa Bay Buccaneers
+1995-09-24,L,@,St. Louis Rams
+1995-10-08,W,,Carolina Panthers
+1995-10-15,W,@,Jacksonville Jaguars
+1995-10-22,W,,Houston Oilers
+1995-10-30,W,@,Minnesota Vikings
+1995-11-05,L,,Pittsburgh Steelers
+1995-11-12,L,@,Green Bay Packers
+1995-11-19,L,,Detroit Lions
+1995-11-26,W,@,New York Giants
+1995-12-04,L,@,Detroit Lions
+1995-12-10,L,@,Cincinnati Bengals
+1995-12-17,W,,Tampa Bay Buccaneers
+1995-12-24,W,,Philadelphia Eagles
+1996-09-02,W,,Dallas Cowboys
+1996-09-08,L,@,Washington Redskins
+1996-09-15,L,,Minnesota Vikings
+1996-09-22,L,@,Detroit Lions
+1996-09-29,W,,Oakland Raiders
+1996-10-06,L,,Green Bay Packers
+1996-10-13,L,@,New Orleans Saints
+1996-10-28,W,@,Minnesota Vikings
+1996-11-03,W,,Tampa Bay Buccaneers
+1996-11-10,L,@,Denver Broncos
+1996-11-17,L,@,Kansas City Chiefs
+1996-11-24,W,,Detroit Lions
+1996-12-01,L,@,Green Bay Packers
+1996-12-08,W,,St. Louis Rams
+1996-12-14,W,,San Diego Chargers
+1996-12-22,L,@,Tampa Bay Buccaneers
+1997-09-01,L,@,Green Bay Packers
+1997-09-07,L,,Minnesota Vikings
+1997-09-14,L,,Detroit Lions
+1997-09-21,L,@,New England Patriots
+1997-09-28,L,@,Dallas Cowboys
+1997-10-05,L,,New Orleans Saints
+1997-10-12,L,,Green Bay Packers
+1997-10-27,W,@,Miami Dolphins
+1997-11-02,L,,Washington Redskins
+1997-11-09,L,@,Minnesota Vikings
+1997-11-16,L,,New York Jets
+1997-11-23,W,,Tampa Bay Buccaneers
+1997-11-27,L,@,Detroit Lions
+1997-12-07,W,,Buffalo Bills
+1997-12-14,W,@,St. Louis Rams
+1997-12-21,L,@,Tampa Bay Buccaneers
+1998-09-06,L,,Jacksonville Jaguars
+1998-09-13,L,@,Pittsburgh Steelers
+1998-09-20,L,@,Tampa Bay Buccaneers
+1998-09-27,L,,Minnesota Vikings
+1998-10-04,W,,Detroit Lions
+1998-10-11,L,@,Arizona Cardinals
+1998-10-18,W,,Dallas Cowboys
+1998-10-25,W,@,Tennessee Oilers
+1998-11-08,L,,St. Louis Rams
+1998-11-15,L,@,Detroit Lions
+1998-11-22,L,@,Atlanta Falcons
+1998-11-29,L,,Tampa Bay Buccaneers
+1998-12-06,L,@,Minnesota Vikings
+1998-12-13,L,@,Green Bay Packers
+1998-12-20,W,,Baltimore Ravens
+1998-12-27,L,,Green Bay Packers
+1999-09-12,W,,Kansas City Chiefs
+1999-09-19,L,,Seattle Seahawks
+1999-09-26,L,@,Oakland Raiders
+1999-10-03,W,,New Orleans Saints
+1999-10-10,W,@,Minnesota Vikings
+1999-10-17,L,,Philadelphia Eagles
+1999-10-24,L,@,Tampa Bay Buccaneers
+1999-10-31,L,@,Washington Redskins
+1999-11-07,W,@,Green Bay Packers
+1999-11-14,L,,Minnesota Vikings
+1999-11-21,W,@,San Diego Chargers
+1999-11-25,L,@,Detroit Lions
+1999-12-05,L,,Green Bay Packers
+1999-12-19,W,,Detroit Lions
+1999-12-26,L,@,St. Louis Rams
+1999-01-02,L,,Tampa Bay Buccaneers
+2000-09-03,L,@,Minnesota Vikings
+2000-09-10,L,@,Tampa Bay Buccaneers
+2000-09-17,L,,New York Giants
+2000-09-24,L,,Detroit Lions
+2000-10-01,W,@,Green Bay Packers
+2000-10-08,L,,New Orleans Saints
+2000-10-15,L,,Minnesota Vikings
+2000-10-22,L,@,Philadelphia Eagles
+2000-11-05,W,,Indianapolis Colts
+2000-11-12,L,@,Buffalo Bills
+2000-11-19,W,,Tampa Bay Buccaneers
+2000-11-26,L,@,New York Jets
+2000-12-03,L,,Green Bay Packers
+2000-12-10,W,,New England Patriots
+2000-12-17,L,@,San Francisco 49ers
+2000-12-24,W,@,Detroit Lions
+2001-09-09,L,@,Baltimore Ravens
+2001-09-23,W,,Minnesota Vikings
+2001-10-07,W,@,Atlanta Falcons
+2001-10-14,W,,Arizona Cardinals
+2001-10-21,W,@,Cincinnati Bengals
+2001-10-28,W,,San Francisco 49ers
+2001-11-04,W,,Cleveland Browns
+2001-11-11,L,,Green Bay Packers
+2001-11-18,W,@,Tampa Bay Buccaneers
+2001-11-25,W,@,Minnesota Vikings
+2001-12-02,W,,Detroit Lions
+2001-12-09,L,@,Green Bay Packers
+2001-12-16,W,,Tampa Bay Buccaneers
+2001-12-23,W,@,Washington Redskins
+2001-12-30,W,@,Detroit Lions
+2001-01-06,W,,Jacksonville Jaguars
+2002-09-08,W,,Minnesota Vikings
+2002-09-15,W,@,Atlanta Falcons
+2002-09-22,L,,New Orleans Saints
+2002-09-29,L,@,Buffalo Bills
+2002-10-07,L,,Green Bay Packers
+2002-10-20,L,@,Detroit Lions
+2002-10-27,L,@,Minnesota Vikings
+2002-11-03,L,,Philadelphia Eagles
+2002-11-10,L,,New England Patriots
+2002-11-18,L,@,St. Louis Rams
+2002-11-24,W,,Detroit Lions
+2002-12-01,L,@,Green Bay Packers
+2002-12-09,L,@,Miami Dolphins
+2002-12-15,W,,New York Jets
+2002-12-22,L,@,Carolina Panthers
+2002-12-29,L,,Tampa Bay Buccaneers
+2003-09-07,L,@,San Francisco 49ers
+2003-09-14,L,@,Minnesota Vikings
+2003-09-29,L,,Green Bay Packers
+2003-10-05,W,,Oakland Raiders
+2003-10-12,L,@,New Orleans Saints
+2003-10-19,L,@,Seattle Seahawks
+2003-10-26,W,,Detroit Lions
+2003-11-02,W,,San Diego Chargers
+2003-11-09,L,@,Detroit Lions
+2003-11-16,L,,St. Louis Rams
+2003-11-23,W,@,Denver Broncos
+2003-11-30,W,,Arizona Cardinals
+2003-12-07,L,@,Green Bay Packers
+2003-12-14,W,,Minnesota Vikings
+2003-12-21,W,,Washington Redskins
+2003-12-28,L,@,Kansas City Chiefs
+2004-09-12,L,,Detroit Lions
+2004-09-19,W,@,Green Bay Packers
+2004-09-26,L,@,Minnesota Vikings
+2004-10-03,L,,Philadelphia Eagles
+2004-10-17,L,,Washington Redskins
+2004-10-24,L,@,Tampa Bay Buccaneers
+2004-10-31,W,,San Francisco 49ers
+2004-11-07,W,@,New York Giants
+2004-11-14,W,@,Tennessee Titans
+2004-11-21,L,,Indianapolis Colts
+2004-11-25,L,@,Dallas Cowboys
+2004-12-05,W,,Minnesota Vikings
+2004-12-12,L,@,Jacksonville Jaguars
+2004-12-19,L,,Houston Texans
+2004-12-26,L,@,Detroit Lions
+2004-01-02,L,,Green Bay Packers
+2005-09-11,L,@,Washington Redskins
+2005-09-18,W,,Detroit Lions
+2005-09-25,L,,Cincinnati Bengals
+2005-10-09,L,@,Cleveland Browns
+2005-10-16,W,,Minnesota Vikings
+2005-10-23,W,,Baltimore Ravens
+2005-10-30,W,@,Detroit Lions
+2005-11-06,W,@,New Orleans Saints
+2005-11-13,W,,San Francisco 49ers
+2005-11-20,W,,Carolina Panthers
+2005-11-27,W,@,Tampa Bay Buccaneers
+2005-12-04,W,,Green Bay Packers
+2005-12-11,L,@,Pittsburgh Steelers
+2005-12-18,W,,Atlanta Falcons
+2005-12-25,W,@,Green Bay Packers
+2005-01-01,L,@,Minnesota Vikings
+2006-09-10,W,@,Green Bay Packers
+2006-09-17,W,,Detroit Lions
+2006-09-24,W,@,Minnesota Vikings
+2006-10-01,W,,Seattle Seahawks
+2006-10-08,W,,Buffalo Bills
+2006-10-16,W,@,Arizona Cardinals
+2006-10-29,W,,San Francisco 49ers
+2006-11-05,L,,Miami Dolphins
+2006-11-12,W,@,New York Giants
+2006-11-19,W,@,New York Jets
+2006-11-26,L,@,New England Patriots
+2006-12-03,W,,Minnesota Vikings
+2006-12-11,W,@,St. Louis Rams
+2006-12-17,W,,Tampa Bay Buccaneers
+2006-12-24,W,@,Detroit Lions
+2006-12-31,L,,Green Bay Packers
+2007-09-09,L,@,San Diego Chargers
+2007-09-16,W,,Kansas City Chiefs
+2007-09-23,L,,Dallas Cowboys
+2007-09-30,L,@,Detroit Lions
+2007-10-07,W,@,Green Bay Packers
+2007-10-14,L,,Minnesota Vikings
+2007-10-21,W,@,Philadelphia Eagles
+2007-10-28,L,,Detroit Lions
+2007-11-11,W,@,Oakland Raiders
+2007-11-18,L,@,Seattle Seahawks
+2007-11-25,W,,Denver Broncos
+2007-12-02,L,,New York Giants
+2007-12-06,L,@,Washington Redskins
+2007-12-17,L,@,Minnesota Vikings
+2007-12-23,W,,Green Bay Packers
+2007-12-30,W,,New Orleans Saints
+2008-09-07,W,@,Indianapolis Colts
+2008-09-14,L,@,Carolina Panthers
+2008-09-21,L,,Tampa Bay Buccaneers
+2008-09-28,W,,Philadelphia Eagles
+2008-10-05,W,@,Detroit Lions
+2008-10-12,L,@,Atlanta Falcons
+2008-10-19,W,,Minnesota Vikings
+2008-11-02,W,,Detroit Lions
+2008-11-09,L,,Tennessee Titans
+2008-11-16,L,@,Green Bay Packers
+2008-11-23,W,@,St. Louis Rams
+2008-11-30,L,@,Minnesota Vikings
+2008-12-07,W,,Jacksonville Jaguars
+2008-12-11,W,,New Orleans Saints
+2008-12-22,W,,Green Bay Packers
+2008-12-28,L,@,Houston Texans
+2009-09-13,L,@,Green Bay Packers
+2009-09-20,W,,Pittsburgh Steelers
+2009-09-27,W,@,Seattle Seahawks
+2009-10-04,W,,Detroit Lions
+2009-10-18,L,@,Atlanta Falcons
+2009-10-25,L,@,Cincinnati Bengals
+2009-11-01,W,,Cleveland Browns
+2009-11-08,L,,Arizona Cardinals
+2009-11-12,L,@,San Francisco 49ers
+2009-11-22,L,,Philadelphia Eagles
+2009-11-29,L,@,Minnesota Vikings
+2009-12-06,W,,St. Louis Rams
+2009-12-13,L,,Green Bay Packers
+2009-12-20,L,@,Baltimore Ravens
+2009-12-28,W,,Minnesota Vikings
+2009-01-03,W,@,Detroit Lions
+2010-09-12,W,,Detroit Lions
+2010-09-19,W,@,Dallas Cowboys
+2010-09-27,W,,Green Bay Packers
+2010-10-03,L,@,New York Giants
+2010-10-10,W,@,Carolina Panthers
+2010-10-17,L,,Seattle Seahawks
+2010-10-24,L,,Washington Redskins
+2010-11-07,W,@,Buffalo Bills
+2010-11-14,W,,Minnesota Vikings
+2010-11-18,W,@,Miami Dolphins
+2010-11-28,W,,Philadelphia Eagles
+2010-12-05,W,@,Detroit Lions
+2010-12-12,L,,New England Patriots
+2010-12-20,W,@,Minnesota Vikings
+2010-12-26,W,,New York Jets
+2010-01-02,L,@,Green Bay Packers
+2011-09-11,W,,Atlanta Falcons
+2011-09-18,L,@,New Orleans Saints
+2011-09-25,L,,Green Bay Packers
+2011-10-02,W,,Carolina Panthers
+2011-10-10,L,@,Detroit Lions
+2011-10-16,W,,Minnesota Vikings
+2011-10-23,W,@,Tampa Bay Buccaneers
+2011-11-07,W,@,Philadelphia Eagles
+2011-11-13,W,,Detroit Lions
+2011-11-20,W,,San Diego Chargers
+2011-11-27,L,@,Oakland Raiders
+2011-12-04,L,,Kansas City Chiefs
+2011-12-11,L,@,Denver Broncos
+2011-12-18,L,,Seattle Seahawks
+2011-12-25,L,@,Green Bay Packers
+2011-01-01,W,@,Minnesota Vikings
+2012-09-09,W,,Indianapolis Colts
+2012-09-13,L,@,Green Bay Packers
+2012-09-23,W,,St. Louis Rams
+2012-10-01,W,@,Dallas Cowboys
+2012-10-07,W,@,Jacksonville Jaguars
+2012-10-22,W,,Detroit Lions
+2012-10-28,W,,Carolina Panthers
+2012-11-04,W,@,Tennessee Titans
+2012-11-11,L,,Houston Texans
+2012-11-19,L,@,San Francisco 49ers
+2012-11-25,W,,Minnesota Vikings
+2012-12-02,L,,Seattle Seahawks
+2012-12-09,L,@,Minnesota Vikings
+2012-12-16,L,,Green Bay Packers
+2012-12-23,W,@,Arizona Cardinals
+2012-12-30,W,@,Detroit Lions
+2013-09-08,W,,Cincinnati Bengals
+2013-09-15,W,,Minnesota Vikings
+2013-09-22,W,@,Pittsburgh Steelers
+2013-09-29,L,@,Detroit Lions
+2013-10-06,L,,New Orleans Saints
+2013-10-10,W,,New York Giants
+2013-10-20,L,@,Washington Redskins
+2013-11-04,W,@,Green Bay Packers
+2013-11-10,L,,Detroit Lions
+2013-11-17,W,,Baltimore Ravens
+2013-11-24,L,@,St. Louis Rams
+2013-12-01,L,@,Minnesota Vikings
+2013-12-09,W,,Dallas Cowboys
+2013-12-15,W,@,Cleveland Browns
+2013-12-22,L,@,Philadelphia Eagles
+2013-12-29,L,,Green Bay Packers
+2014-09-07,L,,Buffalo Bills
+2014-09-14,W,@,San Francisco 49ers
+2014-09-22,W,@,New York Jets
+2014-09-28,L,,Green Bay Packers
+2014-10-05,L,@,Carolina Panthers
+2014-10-12,W,@,Atlanta Falcons
+2014-10-19,L,,Miami Dolphins
+2014-10-26,L,@,New England Patriots
+2014-11-09,L,@,Green Bay Packers
+2014-11-16,W,,Minnesota Vikings
+2014-11-23,W,,Tampa Bay Buccaneers
+2014-11-27,L,@,Detroit Lions
+2014-12-04,L,,Dallas Cowboys
+2014-12-15,L,,New Orleans Saints
+2014-12-21,L,,Detroit Lions
+2014-12-28,L,@,Minnesota Vikings
+2015-09-13,L,,Green Bay Packers
+2015-09-20,L,,Arizona Cardinals
+2015-09-27,L,@,Seattle Seahawks
+2015-10-04,W,,Oakland Raiders
+2015-10-11,W,@,Kansas City Chiefs
+2015-10-18,L,@,Detroit Lions
+2015-11-01,L,,Minnesota Vikings
+2015-11-09,W,@,San Diego Chargers
+2015-11-15,W,@,St. Louis Rams
+2015-11-22,L,,Denver Broncos
+2015-11-26,W,@,Green Bay Packers
+2015-12-06,L,,San Francisco 49ers
+2015-12-13,L,,Washington Redskins
+2015-12-20,L,@,Minnesota Vikings
+2015-12-27,W,@,Tampa Bay Buccaneers
+2015-01-03,L,,Detroit Lions
+2016-09-11,L,@,Houston Texans
+2016-09-19,L,,Philadelphia Eagles
+2016-09-25,L,@,Dallas Cowboys
+2016-10-02,W,,Detroit Lions
+2016-10-09,L,@,Indianapolis Colts
+2016-10-16,L,,Jacksonville Jaguars
+2016-10-20,L,@,Green Bay Packers
+2016-10-31,W,,Minnesota Vikings
+2016-11-13,L,@,Tampa Bay Buccaneers
+2016-11-20,L,@,New York Giants
+2016-11-27,L,,Tennessee Titans
+2016-12-04,W,,San Francisco 49ers
+2016-12-11,L,@,Detroit Lions
+2016-12-18,L,,Green Bay Packers
+2016-12-24,L,,Washington Redskins
+2016-01-01,L,@,Minnesota Vikings
+2017-09-10,L,,Atlanta Falcons
+2017-09-17,L,@,Tampa Bay Buccaneers
+2017-09-24,W,,Pittsburgh Steelers
+2017-09-28,L,@,Green Bay Packers
+2017-10-09,L,,Minnesota Vikings
+2017-10-15,W,@,Baltimore Ravens
+2017-10-22,W,,Carolina Panthers
+2017-10-29,L,@,New Orleans Saints
+2017-11-12,L,,Green Bay Packers
+2017-11-19,L,,Detroit Lions
+2017-11-26,L,@,Philadelphia Eagles
+2017-12-03,L,,San Francisco 49ers
+2017-12-10,W,@,Cincinnati Bengals
+2017-12-16,L,@,Detroit Lions
+2017-12-24,W,,Cleveland Browns
+2017-12-31,L,@,Minnesota Vikings
+2018-09-09,L,@,Green Bay Packers
+2018-09-17,W,,Seattle Seahawks
+2018-09-23,W,@,Arizona Cardinals
+2018-09-30,W,,Tampa Bay Buccaneers
+2018-10-14,L,@,Miami Dolphins
+2018-10-21,L,,New England Patriots
+2018-10-28,W,,New York Jets
+2018-11-04,W,@,Buffalo Bills
+2018-11-11,W,,Detroit Lions
+2018-11-18,W,,Minnesota Vikings
+2018-11-22,W,@,Detroit Lions
+2018-12-02,L,@,New York Giants
+2018-12-09,W,,Los Angeles Rams
+2018-12-16,W,,Green Bay Packers
+2018-12-23,W,@,San Francisco 49ers
+2018-12-30,W,@,Minnesota Vikings
+2019-09-05,L,,Green Bay Packers
+2019-09-15,W,@,Denver Broncos
+2019-09-23,W,@,Washington Redskins
+2019-09-29,W,,Minnesota Vikings
+2019-10-06,L,@,Oakland Raiders
+2019-10-20,L,,New Orleans Saints
+2019-10-27,L,,Los Angeles Chargers
+2019-11-03,L,@,Philadelphia Eagles
+2019-11-10,W,,Detroit Lions
+2019-11-17,L,@,Los Angeles Rams
+2019-11-24,W,,New York Giants
+2019-11-28,W,@,Detroit Lions
+2019-12-05,W,,Dallas Cowboys
+2019-12-15,L,@,Green Bay Packers
+2019-12-22,L,,Kansas City Chiefs
+2019-12-29,W,@,Minnesota Vikings
+2020-09-13,W,@,Detroit Lions
+2020-09-20,W,,New York Giants
+2020-09-27,W,@,Atlanta Falcons
+2020-10-04,L,,Indianapolis Colts
+2020-10-08,W,,Tampa Bay Buccaneers
+2020-10-18,W,@,Carolina Panthers
+2020-10-26,L,@,Los Angeles Rams
+2020-11-01,L,,New Orleans Saints
+2020-11-08,L,@,Tennessee Titans
+2020-11-16,L,,Minnesota Vikings
+2020-11-29,L,@,Green Bay Packers
+2020-12-06,L,,Detroit Lions
+2020-12-13,W,,Houston Texans
+2020-12-20,W,@,Minnesota Vikings
+2020-12-27,W,@,Jacksonville Jaguars
+2020-01-03,L,,Green Bay Packers
+2021-09-12,L,@,Los Angeles Rams
+2021-09-19,W,,Cincinnati Bengals
+2021-09-26,L,@,Cleveland Browns
+2021-10-03,W,,Detroit Lions
+2021-10-10,W,@,Las Vegas Raiders
+2021-10-17,L,,Green Bay Packers
+2021-10-24,L,@,Tampa Bay Buccaneers
+2021-10-31,L,,San Francisco 49ers
+2021-11-08,L,@,Pittsburgh Steelers
+2021-11-21,L,,Baltimore Ravens
+2021-11-25,W,@,Detroit Lions
+2021-12-05,L,,Arizona Cardinals
+2021-12-12,L,@,Green Bay Packers
+2021-12-20,L,,Minnesota Vikings
+2021-12-26,W,@,Seattle Seahawks
+2021-01-02,W,,New York Giants
+2021-01-09,L,@,Minnesota Vikings
+2022-09-11,W,,San Francisco 49ers
+2022-09-18,L,@,Green Bay Packers
+2022-09-25,W,,Houston Texans
+2022-10-02,L,@,New York Giants
+2022-10-09,L,@,Minnesota Vikings
+2022-10-13,L,,Washington Commanders
+2022-10-24,W,@,New England Patriots
+2022-10-30,L,@,Dallas Cowboys
+2022-11-06,L,,Miami Dolphins
+2022-11-13,L,,Detroit Lions
+2022-11-20,L,@,Atlanta Falcons
+2022-11-27,L,@,New York Jets
+2022-12-04,L,,Green Bay Packers
+2022-12-18,L,,Philadelphia Eagles
+2022-12-24,L,,Buffalo Bills
+2022-01-01,L,@,Detroit Lions
+2022-01-08,L,,Minnesota Vikings
+2023-09-10,L,,Green Bay Packers
+2023-09-17,L,@,Tampa Bay Buccaneers
+2023-09-24,L,@,Kansas City Chiefs
+2023-10-01,L,,Denver Broncos
+2023-10-05,W,@,Washington Commanders
+2023-10-15,L,,Minnesota Vikings
+2023-10-22,W,,Las Vegas Raiders
+2023-10-29,L,@,Los Angeles Chargers
+2023-11-05,L,@,New Orleans Saints
+2023-11-09,W,,Carolina Panthers

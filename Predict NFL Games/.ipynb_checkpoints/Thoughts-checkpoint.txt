@@ -1,0 +1,8 @@
+What data do I need to be looking at? We should look at 1 team and try and predict the outcome of their next game. We will have these stats for both teams.
+date, time of day, day of the week, offensive rating, defensive rating, redzone effectiveness, avg ppg, avg points against per game, number of injuries, is starting qb injured, # of injuries, wins this season, losses this season, divisional game, location, historical win % against this team, last meeting result against opponent, past 5 games win %, pass yds/game, rushing yds/game, rushing yds against/game, passing yards against/game, turnovers/game, average time of possession, penalties per game, sacks per game, ints per game, fumbles recovered per game.
+
+
+Data provided by Pro-Football-Reference.com
+
+Stats I have so far from 1970-2023 chicago bears:
+result, location, opponent
