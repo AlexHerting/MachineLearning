@@ -8,3 +8,8 @@ Stats I have so far from 1970-2023 chicago bears:
 result, location, opponent
 
 How I plan on setting up my data, create the same thing for all 32 teams as I did with the bears. Then get the stats of each team from each year 1970-2023 in a different csv file. I then will compare the year and the name of the team to append the data to new columns which will in result create complete data for all 32 teams. I will then combine all 32 of those teams data into 1 large csv file to train the model on. I will remove the date from the file and have the index just be a basic indexing index (1,2,3...).
+
+I have officially made the first data model with a Logistical Regression model. I only gave the model the teams rankings on offense and defense, as well as home or away. The model returned with an accuracy of 62%. Professional NFL analysts average 65% accuracy. The next step is to brute force all of the data of every NFL team since 1970 into csv files, and then run them through the python file I made to correctly append them to their corresponding game. This will allow me to get much more accurate predictions on chicago bears games. 
+
+Current: 62%
+Goal: 75%
