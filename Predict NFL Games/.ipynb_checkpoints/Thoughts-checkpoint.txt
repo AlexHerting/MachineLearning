@@ -13,3 +13,11 @@ I have officially made the first data model with a Logistical Regression model. 
 
 Current: 62%
 Goal: 75%
+
+
+Last night I decided to research other peoples attempt at the same problem and see what kind of results they came up with. I found that no one has been able to get over 70% accuracy to my knowledge with a data model. I believe that the best data model I saw was the random forecasting model. I am going to give the random forecast model a try on my current data. I am also adjusting my ultimate goal to 70% because it seems more realistic, but still a very high goal that will take a lot of work and refining of data. 
+
+Random Forecast Model current: 64%
+Goal: 70%
+
+The random forecast model has proven to be more effective for the amount of data I have currently collected. I will continue to test both models as well as try other models that I find along the way in order to maximize my results.
